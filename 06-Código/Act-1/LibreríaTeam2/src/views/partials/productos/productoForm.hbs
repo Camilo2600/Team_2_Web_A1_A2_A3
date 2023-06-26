@@ -1,0 +1,30 @@
+<div class="card card-body p-4 rounded-0 bg-dark text-white">
+   
+    <h2>Agregar  Libro <i class="bi bi-book"></i></h2> 
+    <form action="/libros/agregar" method="post">
+    <div>
+        <label for="nombre">Escribe nombre del libro</label>
+        <input type="text" name="nombre" placeholder="Name book" id="nombre"
+        class="form-control bg-dark text-white"/>
+    </div>
+
+    <div>
+        <label for="descripcion">Descripción del libro</label>
+        <textarea name="descripcion" cols="25" rows="5" placeholder="Description book"
+        class="form-control bg-dark text-white"></textarea>
+    </div>
+
+     <div>
+        <label for="nombre">Escribe Precio Compra</label>
+        <input type="text" name="precio" placeholder="Price book" id="precio"
+        class="form-control bg-dark text-white"/>
+    </div>
+
+    <div>
+        <label for="nombre">Escribe Precio Venta</label>
+        <input type="text" name="precioVent" placeholder="Price book" id="precioVent"
+        class="form-control bg-dark text-white"/>
+    </div>
+    <button class="btn btn-success btn-sm mt-2"> <i class="bi bi-file-earmark-plus"></i> Agregar</button>
+
+</div>
