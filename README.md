@@ -1,4 +1,4 @@
-# Grupo_2_Web_
+# Grupo_2_Web
 Desarrollo de Aplicaciones Web Grupo "TEAM 2"
 
 NOTA IMPORTANTE:
