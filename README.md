@@ -3,7 +3,6 @@ Desarrollo de Aplicaciones Web Grupo "TEAM 2";
 
 <div>Integrantes:
 Acosta Moreno Camilo Alejandro, 
-  
 Almeida Logroño Nicolás André, 
 Benavides Mina Luis Mauricio, 
 Diaz Peñafiel Angie Elizabeth, 
